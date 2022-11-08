@@ -1,0 +1,21 @@
+.modal_content{
+  text-align:center;
+  /* background: #e77572; */
+  color: black;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  border: none;
+  width: 100%;
+  font-size: 20px;
+  font-family: 'Damion', cursive;
+  position: absolute;
+  left: 0;
+  right: 0;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  cursor: pointer;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px
+}
